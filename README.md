@@ -2,7 +2,7 @@
 
 This repository contains all documents and assets related to the Perpetual Airdrop Experiment.
 
-## About
+## About
 
 The Perpetual Airdrop Experiment is a blockchain experiment launched by a non profit company incorporated in Costa Rica.
 
